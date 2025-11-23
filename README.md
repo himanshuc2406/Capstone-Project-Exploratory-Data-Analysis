@@ -92,11 +92,3 @@ NumPy
 Matplotlib
 
 Seaborn
-
-Jupyter Notebook
-📦 Paisabazaar-Credit-Analysis  
- ┣ 📂 data  
- ┣ 📂 visuals  
- ┣ 📜 notebook.ipynb  
- ┣ 📜 README.md  
- ┗ 📜 requirements.txt  
